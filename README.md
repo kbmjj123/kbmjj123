@@ -19,7 +19,7 @@
 ```typescript
 const developer = {
   name:         "kbmjj123",
-  location:     "China",                              // TODO: add your city
+  location:     "China",                              
   role:         "Full Stack Developer",
   stack:        ["Vue.js", "Nuxt.js", "Cloudflare"],
 
@@ -30,7 +30,7 @@ const developer = {
 
   contact:      "kbmjj123@gmail.com",
   website:      "https://bulkpictools.com",
-  blog:         "https://bulkpictools.com",           // TODO: replace with blog URL when ready
+  blog:         "https://dev.to/genglin",           
 };
 ```
 
@@ -127,7 +127,7 @@ const developer = {
 [![Website](https://img.shields.io/badge/Website-bulkpictools.com-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bulkpictools.com)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-@kbmjj123-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER) -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kbmjj123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) -->
-<!-- [![Blog](https://img.shields.io/badge/Blog-kbmjj123's_Blog-FF4500?style=for-the-badge&logo=rss&logoColor=white)](https://YOUR_BLOG_URL) -->
+[![Blog](https://img.shields.io/badge/Blog-kbmjj123's_Blog-FF4500?style=for-the-badge&logo=rss&logoColor=white)](https://dev.to/genglin)
 
 </div>
 
