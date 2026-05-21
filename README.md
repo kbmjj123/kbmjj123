@@ -19,7 +19,7 @@
 ```typescript
 const developer = {
   name:         "kbmjj123",
-  location:     "Guangdong | China",                              
+  location:     "China",                              // TODO: add your city
   role:         "Full Stack Developer",
   stack:        ["Vue.js", "Nuxt.js", "Cloudflare"],
 
@@ -30,7 +30,7 @@ const developer = {
 
   contact:      "kbmjj123@gmail.com",
   website:      "https://bulkpictools.com",
-  blog:         "https://github.com/kbmjj123"           
+  blog:         "https://bulkpictools.com",           // TODO: replace with blog URL when ready
 };
 ```
 
@@ -53,6 +53,7 @@ const developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/CF_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Nitro](https://img.shields.io/badge/Nitro-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 **Database & Infrastructure**
@@ -60,6 +61,7 @@ const developer = {
 ![Cloudflare D1](https://img.shields.io/badge/D1_SQLite-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare KV](https://img.shields.io/badge/KV_Store-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/R2_Storage-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -85,17 +87,19 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbmjj123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmjj123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8"/>
+<!-- Contribution streak — hosted on streak-stats.demolab.com (stable) -->
+<img src="https://streak-stats.demolab.com?user=kbmjj123&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
+<!-- Contribution heatmap — ghchart.rshah.org (stable, no API key needed) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kbmjj123&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img src="https://ghchart.rshah.org/00d9ff/kbmjj123" alt="kbmjj123's Contribution Chart"/>
 </div>
 
+<!-- GitHub trophies — github-profile-trophy (stable) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbmjj123&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kbmjj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
