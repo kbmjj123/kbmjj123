@@ -77,8 +77,9 @@ const developer = {
 
 ## 🚀 &nbsp;Featured Projects
 
-![BulkPicTools is a privacy-first, browser-based batch image processing toolbox with 60+ tools.](https://github.com/kbmjj123/BulkPicTools)
-![Kbmjj123.cc](A pixel‑themed blog platform for indie developers — minimal, fast, and fully self‑contained.)
+[BulkPicTools](https://github.com/kbmjj123/BulkPicTools): BulkPicTools is a privacy-first, browser-based batch image processing toolbox with 60+ tools.
+
+[Kbmjj123.cc](https://kbmjj123.cc): A pixel‑themed blog platform for indie developers — minimal, fast, and fully self‑contained.
 
 <br/>
 
