@@ -117,7 +117,11 @@ const developer = {
 ## 📝 &nbsp;Latest Blog
 
 <!-- blog-start -->
-
+- [Mon, 13 Jul] [Running a Zero-Cost SaaS with Nuxt and Cloudflare](https://kbmjj123.cc/nuxt-cloudflare-zero-cost)
+- [Sat, 11 Jul] [My SEO Checklist for Every New Page (Before and After Launch)](https://kbmjj123.cc/seo-checklist-new-page-launch)
+- [Fri, 10 Jul] [What Actually Happens When Google Tests a New Page](https://kbmjj123.cc/how-google-tests-new-pages-explained)
+- [Thu, 09 Jul] [How I Built a Multi-Model AI Coding Workflow for $0](https://kbmjj123.cc/claude-deepseek-workflow)
+- [Thu, 09 Jul] [Why Your New Page Gets Impressions But Zero Clicks in Google Search Console](https://kbmjj123.cc/gsc-impressions-zero-clicks-diagnosis)
 <!-- blog-end -->
 [→ Browse More Posts](https://kbmjj123.cc)
 
