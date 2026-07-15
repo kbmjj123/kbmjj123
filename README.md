@@ -77,9 +77,8 @@ const developer = {
 
 ## 🚀 &nbsp;Featured Projects
 
-<!-- Projects coming soon — fill in your repo names and descriptions when ready -->
-
-> 🔧 &nbsp;Projects section is being updated. Check back soon or visit my [GitHub repositories](https://github.com/kbmjj123?tab=repositories).
+![BulkPicTools is a privacy-first, browser-based batch image processing toolbox with 60+ tools.](https://github.com/kbmjj123/BulkPicTools)
+![Kbmjj123.cc](A pixel‑themed blog platform for indie developers — minimal, fast, and fully self‑contained.)
 
 <br/>
 
