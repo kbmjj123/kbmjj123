@@ -1,0 +1,85 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 8 * * *'      # 每天 UTC 8:00 执行一次
+  workflow_dispatch:          # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # 允许自动 push
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch RSS and Update README
+        run: |
+          # ===== 1. 抓取你的 RSS feed =====
+          FEED_URL="https://kbmjj123.cc/feed.xml"
+          curl -s "$FEED_URL" -o feed.xml
+
+          # ===== 2. 用 Python 解析 XML 并生成文章列表 =====
+          python3 << 'EOF'
+          import xml.etree.ElementTree as ET
+          import datetime
+
+          tree = ET.parse('feed.xml')
+          root = tree.getroot()
+
+          # RSS 2.0 结构：channel → item
+          ns = {'atom': 'http://www.w3.org/2005/Atom'}
+          items = root.findall('.//item')
+
+          lines = []
+          count = 0
+          for item in items:
+              if count >= 5:
+                  break
+              title = item.find('title').text or ''
+              link = item.find('link').text or ''
+              pub_date = item.find('pubDate').text or ''
+
+              # 格式化日期
+              try:
+                  # RSS pubDate 格式：Thu, 10 Jul 2025 12:00:00 +0000
+                  dt = datetime.datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %z')
+                  date_str = dt.strftime('%Y-%m-%d')
+              except:
+                  date_str = pub_date[:11] if pub_date else ''
+
+              lines.append(f'- [{date_str}] [{title}]({link})')
+              count += 1
+
+          blog_section = '\n'.join(lines)
+
+          # ===== 3. 替换 README 中的标记区域 =====
+          with open('README.md', 'r') as f:
+              readme = f.read()
+
+          import re
+          new_readme = re.sub(
+              r'<!-- blog-start -->.*?<!-- blog-end -->',
+              f'<!-- blog-start -->\n{blog_section}\n<!-- blog-end -->',
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(new_readme)
+
+          print(f"✅ Updated {count} posts")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "📝 Update latest blog posts"
+            git push
+          fi
