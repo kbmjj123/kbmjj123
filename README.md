@@ -114,6 +114,13 @@ const developer = {
 
 <br/>
 
+## 📝 &nbsp;Latest Blog
+
+<!-- blog-start -->
+
+<!-- blog-end -->
+[→ Browse More Posts](https://kbmjj123.cc)
+
 ## 📬 &nbsp;Find Me
 
 <div align="center">
@@ -125,9 +132,9 @@ const developer = {
 
 <!-- Uncomment and fill in the URL when ready -->
 [![Website](https://img.shields.io/badge/Website-bulkpictools.com-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bulkpictools.com)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-@kbmjj123-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kbmjj123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) -->
-[![Blog](https://img.shields.io/badge/Blog-kbmjj123's_Blog-FF4500?style=for-the-badge&logo=rss&logoColor=white)](https://dev.to/genglin)
+[![Twitter](https://img.shields.io/badge/Twitter-@kbmjj123-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/solomaker282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kbmjj123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genglin-zheng-a34014230/)
+[![Blog](https://img.shields.io/badge/Blog-kbmjj123's_Blog-FF4500?style=for-the-badge&logo=rss&logoColor=white)](https://kbmjj123.cc)
 
 </div>
 
