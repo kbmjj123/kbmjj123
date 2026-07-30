@@ -117,11 +117,11 @@ const developer = {
 ## 📝 &nbsp;Latest Blog
 
 <!-- blog-start -->
+- [Thu, 30 Jul] [SSG vs SSR vs Hybrid: A Decision Framework for Nuxt Deployment](https://kbmjj123.cc/ssg-vs-ssr-hybrid-decision-framework)
 - [Tue, 28 Jul] [How I Run Claude Code on My Phone for $29/Month — And Why I Stopped Chasing AI Tools](https://kbmjj123.cc/claude-code-on-phone-29-dollar-workflow)
 - [Sun, 26 Jul] [Google Search Console API with Node.js: Pull Real SEO Data Without googleapis](https://kbmjj123.cc/google-search-console-api-nodejs)
 - [Fri, 17 Jul] [Nuxt 4 on Cloudflare: Three Deployment Modes and When to Use Each](https://kbmjj123.cc/nuxt4-cloudflare-three-deployment-modes)
 - [Thu, 16 Jul] [Does an Indie Developer Have to Be a Jack of All Trades?](https://kbmjj123.cc/does-indie-dev-have-to-be-jack-of-all-trades)
-- [Mon, 13 Jul] [Running a Zero-Cost SaaS with Nuxt and Cloudflare](https://kbmjj123.cc/nuxt-cloudflare-zero-cost)
 <!-- blog-end -->
 [→ Browse More Posts](https://kbmjj123.cc)
 
