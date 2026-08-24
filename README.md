@@ -30,7 +30,7 @@ const developer = {
 
   contact:      "kbmjj123@gmail.com",
   website:      "https://bulkpictools.com",
-  blog:         "https://dev.to/genglin",           
+  blog:         "https://kbmjj123.cc",           
 };
 ```
 
