@@ -83,6 +83,7 @@ const developer = {
 
 [JsonToolBox](https://jsontoolbox.cc): Free and open-source JSON tools for formatting, validating, minifying, viewing, comparing, and converting JSON locally in your browser.
 
+[https://minoremove.com](https://minoremove.com): Privacy-first AI watermark remover. 
 <br/>
 
 ## 📊 &nbsp;GitHub Stats
