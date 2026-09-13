@@ -84,6 +84,8 @@ const developer = {
 [JsonToolBox](https://jsontoolbox.cc): Free and open-source JSON tools for formatting, validating, minifying, viewing, comparing, and converting JSON locally in your browser.
 
 [MinoRemove](https://minoremove.com): Privacy-first AI watermark remover. 
+
+[MinoPdf](https://minopdf.com): MinoPDF provides practical online tools for converting, organizing, extracting, and cleaning PDF files.
 <br/>
 
 ## 📊 &nbsp;GitHub Stats
