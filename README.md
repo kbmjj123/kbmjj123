@@ -29,7 +29,7 @@ const developer = {
   openTo:       ["Collaboration", "Freelance", "Interesting Ideas"],
 
   contact:      "kbmjj123@gmail.com",
-  website:      "https://bulkpictools.com",
+  website:      "https://bulkpictools.com", "https://jsontoolbox.cc", "https://minopdf.com", "https://minoremove.com"
   blog:         "https://kbmjj123.cc",           
 };
 ```
