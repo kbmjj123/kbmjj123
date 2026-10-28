@@ -122,11 +122,11 @@ const developer = {
 ## 📝 &nbsp;Latest Blog
 
 <!-- blog-start -->
+- [Wed, 28 Oct] [From MVP to Minimum Viable Resource: What I Validate Before Writing Code](https://kbmjj123.cc/from-mvp-to-minimum-viable-resource)
+- [Mon, 26 Oct] [I Built My Own Analytics for a Browser-Only Tool. Two Days Later I Hit the Free Tier Wall.](https://kbmjj123.cc/self-hosted-analytics-d1-free-tier)
 - [Thu, 30 Jul] [SSG vs SSR vs Hybrid: A Decision Framework for Nuxt Deployment](https://kbmjj123.cc/ssg-vs-ssr-hybrid-decision-framework)
 - [Tue, 28 Jul] [How I Run Claude Code on My Phone for $29/Month — And Why I Stopped Chasing AI Tools](https://kbmjj123.cc/claude-code-on-phone-29-dollar-workflow)
 - [Sun, 26 Jul] [Google Search Console API with Node.js: Pull Real SEO Data Without googleapis](https://kbmjj123.cc/google-search-console-api-nodejs)
-- [Fri, 17 Jul] [Nuxt 4 on Cloudflare: Three Deployment Modes and When to Use Each](https://kbmjj123.cc/nuxt4-cloudflare-three-deployment-modes)
-- [Thu, 16 Jul] [Does an Indie Developer Have to Be a Jack of All Trades?](https://kbmjj123.cc/does-indie-dev-have-to-be-jack-of-all-trades)
 <!-- blog-end -->
 [→ Browse More Posts](https://kbmjj123.cc)
 
