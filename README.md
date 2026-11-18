@@ -29,7 +29,7 @@ const developer = {
   openTo:       ["Collaboration", "Freelance", "Interesting Ideas"],
 
   contact:      "kbmjj123@gmail.com",
-  website:      "https://bulkpictools.com", "https://jsontoolbox.cc", "https://minopdf.com", "https://my9tools.app", "https://minoremove.com"
+  website:      "https://bulkpictools.com", "https://jsontoolbox.cc", "https://minopdf.com", "https://my9tools.app", "https://paperfolio.cc", "https://aifindr.org", "https://minoremove.com"
   blog:         "https://kbmjj123.cc",           
 };
 ```
@@ -82,6 +82,10 @@ const developer = {
 [Kbmjj123.cc](https://kbmjj123.cc): A pixel‑themed blog platform for indie developers — minimal, fast, and fully self‑contained.
 
 [JsonToolBox](https://jsontoolbox.cc): Free and open-source JSON tools for formatting, validating, minifying, viewing, comparing, and converting JSON locally in your browser.
+
+[PaperFolio](https://paperfolio.cc): Free printable paper templates and generators — graph, lined, dot grid, and note paper in one place.
+
+[AIFindr](https://aifindr.orgt): Discover AI tools, handpicked and free to explore.
 
 [My9Tools](https://my9tools.app): My9Tools turns tools, templates, and quality checks into practical nine-step workflows that help you do better work, faster.
 
